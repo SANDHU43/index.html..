@@ -1,0 +1,22 @@
+title{
+    margin: 10px;
+    padding: 10px;
+}
+
+header{ background: url(SDBF0711.JPG);
+    height: 100vh;
+    background-size: cover;
+}
+display-flex{
+    font-display: right;
+    }
+    nav li{
+        display: bottom ruby-base-container;
+        list-style: upper-alpha;
+    }
+    nav li a{
+        font-size: 23px;
+        text-transform: uppercase;
+        padding: 0px 30px;
+       color:black;
+}
